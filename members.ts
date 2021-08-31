@@ -54,4 +54,11 @@ export const members: Member[] = [
     avatarSrc: "/avatars/alexandria.jpg",
     sources: [],
   },
+  {
+    name: "technuma",
+    role: "Engineer",
+    bio: "backend",
+    avatarSrc: "/avatars/technuma.jpeg",
+    sources: ["https://qiita.com/technuma/feed"],
+  },
 ];
